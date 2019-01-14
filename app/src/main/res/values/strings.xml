@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Roll the dice</string>
+    <string name="button1">1k10</string>
+    <string name="button2">2k10</string>
+    <string name="button3">1k100</string>
+    <string name="text1">-</string>
+    <string name="text2">-</string>
+    <string name="text3">-</string>
+    <string name="title">Rzuć kością</string>
+</resources>
